@@ -66,7 +66,7 @@ rm -rf $(which availd)
 
 5. Create systemD (**Before creating the service, please read all this step notes, then proceed with the command**)
 
-- Find you `[$HOME]` directory (you need this later)
+- Find your `[$HOME]` directory (you need this later)
  ```bash
    $home
 ```
@@ -79,8 +79,7 @@ My `[$HOME]` is **/root** in the following example
  ```bash
     sudo touch /etc/systemd/system/availd.service && sudo nano /etc/systemd/system/availd.service
 ```
-
-    Now you are editing .service file
+Now you are editing .service file
     
 - Paste the following command in it
 **(Change `[$HOME]` in the command below before pasting it into the service. Please read more below)**:
