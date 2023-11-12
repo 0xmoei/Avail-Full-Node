@@ -1,5 +1,5 @@
-[https://github.com/0xmoei/Avail-Full-Node/blob/main/sync.png
-](https://github.com/0xmoei/Avail-Full-Node/blob/main/sync.png)
+[image_url](https://github.com/0xmoei/Avail-Full-Node/blob/main/sync.png)
+
 #Avail Full Node Guide
 ## System Requirements
 | Component | Minimum | Recommended |
