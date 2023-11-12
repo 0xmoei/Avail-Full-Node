@@ -131,7 +131,7 @@ sudo apt-get install ufw && sudo ufw enable && sudo ufw allow 30333/tcp && sudo 
 ```
    ![ alt text](https://github.com/0xmoei/Avail-Full-Node/blob/main/sync0.png)
    
-    Press Ctrl + C to quit
+Press Ctrl + C to quit
 
 
 9. Check Node logs:
