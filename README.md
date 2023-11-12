@@ -1,5 +1,6 @@
-     <img src="https://github.com/hiephtdev/huong-dan-chay-full-node-avail/blob/main/build.png">    
-# Avail Full Node Guide
+[https://github.com/0xmoei/Avail-Full-Node/blob/main/sync.png
+](https://github.com/0xmoei/Avail-Full-Node/blob/main/sync.png)
+#Avail Full Node Guide
 ## System Requirements
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
