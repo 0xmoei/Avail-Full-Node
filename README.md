@@ -1,6 +1,6 @@
 ![ alt text](https://github.com/0xmoei/Avail-Full-Node/blob/main/sync.png)
 
-#Avail Full Node Guide
+# Avail Full Node Guide
 ## System Requirements
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
@@ -13,7 +13,7 @@
 
 1. Install Dependecies:
 
-    ```bash
+    `
     sudo apt-get -y update &&
     sudo apt-get install screen -y &&
     sudo apt-get -y install build-essential &&
@@ -24,7 +24,7 @@
     rustup update &&
     rustup update nightly && 
     rustup target add wasm32-unknown-unknown --toolchain nightly
-    ```
+    `
     
 2. Remove old files of Avail Node (if you participated in Kate testnet):
 
