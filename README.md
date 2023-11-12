@@ -1,4 +1,4 @@
-[image_url](https://github.com/0xmoei/Avail-Full-Node/blob/main/sync.png)
+![ alt text](https://github.com/0xmoei/Avail-Full-Node/blob/main/sync.png)
 
 #Avail Full Node Guide
 ## System Requirements
