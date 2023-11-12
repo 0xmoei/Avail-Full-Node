@@ -1,4 +1,4 @@
-    <img src="https://github.com/0xmoei/Avail-Full-Node/blob/main/clashofnodes.png">
+     <img src="https://github.com/hiephtdev/huong-dan-chay-full-node-avail/blob/main/build.png">    
 # Avail Full Node Guide
 ## System Requirements
 | Component | Minimum | Recommended |
